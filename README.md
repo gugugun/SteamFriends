@@ -50,3 +50,4 @@
 | ![](https://avatars.steamstatic.com/0e96fd1da4c91017a7c1de980d6361b139e6831d.jpg) | 陈独秀            | [76561198416814623](https://steamcommunity.com/profiles/76561198416814623/) | ✅           | 2022-06-25 13:13:20 |          |
 | ![](https://avatars.steamstatic.com/e0345d95a99a0280d31aaec05676eaad7a125d2c.jpg) | 14             | [76561199405694908](https://steamcommunity.com/profiles/76561199405694908/) | ✅           | 2022-12-06 11:27:04 |          |
 | ![](https://avatars.steamstatic.com/fef49e7fa7e1997310d705b2a6158ff8dc1cdfeb.jpg) | zx11249        | [76561199325953756](https://steamcommunity.com/profiles/76561199325953756/) | ✅           | 2022-08-30 07:08:58 |          |
+| ![](https://avatars.steamstatic.com/6ee41a2ac4b56ccc0aa960b48e3de6f3f4ed07e1.jpg) | 幸心意            | [76561199640132784](https://steamcommunity.com/profiles/76561199640132784/) | ✅           | 2024-10-04 18:19:43 |          |
