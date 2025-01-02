@@ -51,4 +51,4 @@
 | ![](https://avatars.steamstatic.com/e0345d95a99a0280d31aaec05676eaad7a125d2c.jpg) | 14             | [76561199405694908](https://steamcommunity.com/profiles/76561199405694908/) | ✅           | 2022-12-06 11:27:04 |          |
 | ![](https://avatars.steamstatic.com/fef49e7fa7e1997310d705b2a6158ff8dc1cdfeb.jpg) | zx11249        | [76561199325953756](https://steamcommunity.com/profiles/76561199325953756/) | ✅           | 2022-08-30 07:08:58 |          |
 | ![](https://avatars.steamstatic.com/6ee41a2ac4b56ccc0aa960b48e3de6f3f4ed07e1.jpg) | 幸心意            | [76561199640132784](https://steamcommunity.com/profiles/76561199640132784/) | ✅           | 2024-10-04 18:19:43 |          |
-| ![](https://avatars.steamstatic.com/e1bdd6e54d6e5a4da6058798786c40093e8a124a.jpg) | 姬松学院第一吉他手·仮屋和奏 | [76561198909779929](https://steamcommunity.com/profiles/76561198909779929/) | ✅           | 2024-12-30 10:34:38 |          |
+| ![](https://avatars.steamstatic.com/bf9068cadcf5ecf61bc142c3d17eeb8c94764c74.jpg) | Timoris        | [76561198909779929](https://steamcommunity.com/profiles/76561198909779929/) | ✅           | 2024-12-30 10:34:38 |          |
