@@ -54,3 +54,4 @@
 | ![](https://avatars.steamstatic.com/377cec9075b2e14dd4c231dd15bad123b105daf4.jpg) | Kariya Wakana  | [76561198909779929](https://steamcommunity.com/profiles/76561198909779929/) | ✅           | 2024-12-30 10:34:38 |          |
 | ![](https://avatars.steamstatic.com/f8abf5512105cd49de2b1c0774f8bb15a0969194.jpg) | Refrain        | [76561198100326790](https://steamcommunity.com/profiles/76561198100326790/) | ❌           | 2025-02-14 17:21:02 |          |
 | ![](https://avatars.steamstatic.com/3f47c3634c822270cbccf23f4cb4fcf2272e23d1.jpg) | decade         | [76561199340528382](https://steamcommunity.com/profiles/76561199340528382/) | ✅           | 2025-06-12 07:33:22 |          |
+| ![](https://avatars.steamstatic.com/9d4ecbd7a4a65cf306b9753c589fe1f552e25088.jpg) | 风铃音律           | [76561198160383969](https://steamcommunity.com/profiles/76561198160383969/) | ✅           | 2025-06-16 14:00:49 |          |
