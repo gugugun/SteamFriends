@@ -61,3 +61,4 @@
 | ![](https://avatars.steamstatic.com/3f47c3634c822270cbccf23f4cb4fcf2272e23d1.jpg) | 37度不烫嘴         | [76561199516879892](https://steamcommunity.com/profiles/76561199516879892/) | ✅           | 2025-06-21 12:39:27 |          |
 | ![](https://avatars.steamstatic.com/34d47d4cf367abf93ee360d8e3d00226e734aebe.jpg) | 芝士惑勾(          | [76561198854743562](https://steamcommunity.com/profiles/76561198854743562/) | ✅           | 2025-06-28 15:11:37 |          |
 | ![](https://avatars.steamstatic.com/b4872b5adad36b9caa25ef8c7f4336a64a7e3284.jpg) | Zjojo          | [76561198380375704](https://steamcommunity.com/profiles/76561198380375704/) | ✅           | 2025-06-28 14:20:38 |          |
+| ![](https://avatars.steamstatic.com/2bc44f5948d278197166ebbc3ad78741b3e22fec.jpg) | Dear future    | [76561198096048260](https://steamcommunity.com/profiles/76561198096048260/) | ✅           | 2025-06-29 05:00:25 |          |
