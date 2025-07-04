@@ -63,3 +63,4 @@
 | ![](https://avatars.steamstatic.com/b4872b5adad36b9caa25ef8c7f4336a64a7e3284.jpg) | Zjojo            | [76561198380375704](https://steamcommunity.com/profiles/76561198380375704/) | ✅           | 2025-06-28 14:20:38 |          |
 | ![](https://avatars.steamstatic.com/2bc44f5948d278197166ebbc3ad78741b3e22fec.jpg) | Dear future      | [76561198096048260](https://steamcommunity.com/profiles/76561198096048260/) | ✅           | 2025-06-29 05:00:25 |          |
 | ![](https://avatars.steamstatic.com/f94c1ec27dee694076e3fac0fbeef858c7b69e33.jpg) | 异世界最屑魔女の傳說 伊蕾娜だぜ | [76561198892336061](https://steamcommunity.com/profiles/76561198892336061/) | ✅           | 2025-06-30 05:53:40 |          |
+| ![](https://avatars.steamstatic.com/91200ea2993833e5765690d49d9ac49f59661e58.jpg) | 达瓦里希，莫洛托夫        | [76561198087278848](https://steamcommunity.com/profiles/76561198087278848/) | ✅           | 2025-07-03 15:31:20 |          |
