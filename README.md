@@ -65,3 +65,4 @@
 | ![](https://avatars.steamstatic.com/f94c1ec27dee694076e3fac0fbeef858c7b69e33.jpg) | 灰の魔女           | [76561198892336061](https://steamcommunity.com/profiles/76561198892336061/) | ✅           | 2025-06-30 05:53:40 |          |
 | ![](https://avatars.steamstatic.com/91200ea2993833e5765690d49d9ac49f59661e58.jpg) | 达瓦里希，莫洛托夫      | [76561198087278848](https://steamcommunity.com/profiles/76561198087278848/) | ✅           | 2025-07-03 15:31:20 |          |
 | ![](https://avatars.steamstatic.com/750ad3925c128c865f6c28ef32c21145172c0efb.jpg) | 龙玉涛的星怒         | [76561199568153099](https://steamcommunity.com/profiles/76561199568153099/) | ❌           | 2025-07-23 19:02:59 |          |
+| ![](https://avatars.steamstatic.com/bb8fe5d62435fe969244bd15e76e720a40e036aa.jpg) | 精品羽绒服          | [76561198154497506](https://steamcommunity.com/profiles/76561198154497506/) | ✅           | 2025-07-29 18:15:24 |          |
